@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 
 // @SpringBootApplication — это "три в одном".
-// Она включает в себя:
+// Она включает в себя
 // 1. @Configuration (разрешает настраивать бины)
 // 2. @EnableAutoConfiguration (включает автоконфигурацию Spring Boot)
 // 3. @ComponentScan (говорит Spring сканировать этот пакет и все вложенные
